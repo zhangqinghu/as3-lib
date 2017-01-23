@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.adobe.images.BitString"/>
+    <classEntry path="com.adobe.images.JPGEncoder"/>
+    <classEntry path="com.adobe.images.PNGEncoder"/>
+    <classEntry path="net.guodong.air.OpenFile"/>
+    <classEntry path="net.guodong.core.Validator"/>
+    <classEntry path="net.guodong.data.CustomDictionary"/>
+    <classEntry path="net.guodong.data.Page"/>
+    <classEntry path="net.guodong.data.StaticData"/>
+    <classEntry path="net.guodong.debug.Debug"/>
+    <classEntry path="net.guodong.debug.Echo"/>
+    <classEntry path="net.guodong.display.Bitmap.BitmapDataManage"/>
+    <classEntry path="net.guodong.display.DisplayObject.BaseShape"/>
+    <classEntry path="net.guodong.display.DisplayObject.CustomBtn"/>
+    <classEntry path="net.guodong.display.DisplayObject.DynamicRegistration"/>
+    <classEntry path="net.guodong.display.DisplayObject.FrameControl"/>
+    <classEntry path="net.guodong.effects.BufferingIndicator"/>
+    <classEntry path="net.guodong.effects.BufferingIndicator2"/>
+    <classEntry path="net.guodong.effects.FireEffect"/>
+    <classEntry path="net.guodong.effects.Reflection"/>
+    <classEntry path="net.guodong.effects.WaveEffect"/>
+    <classEntry path="net.guodong.events.CustomEvent"/>
+    <classEntry path="net.guodong.events.CustomEventDispatcher"/>
+    <classEntry path="net.guodong.events.FileEvent"/>
+    <classEntry path="net.guodong.events.ScrollBarEvent"/>
+    <classEntry path="net.guodong.io.Keys"/>
+    <classEntry path="net.guodong.loader.ResourceLoader"/>
+    <classEntry path="net.guodong.loader.WebImageCache"/>
+    <classEntry path="net.guodong.math.C5Math"/>
+    <classEntry path="net.guodong.math.vector"/>
+    <classEntry path="net.guodong.media.CameraFace"/>
+    <classEntry path="net.guodong.media.ExtSound"/>
+    <classEntry path="net.guodong.media.FlvPlayer"/>
+    <classEntry path="net.guodong.media.SoundManager"/>
+    <classEntry path="net.guodong.net.BaseSocket"/>
+    <classEntry path="net.guodong.net.JQuest"/>
+    <classEntry path="net.guodong.net.LoadVarsBot"/>
+    <classEntry path="net.guodong.net.LoalFileSelector"/>
+    <classEntry path="net.guodong.net.SavePic"/>
+    <classEntry path="net.guodong.net.upload.ImageUploader"/>
+    <classEntry path="net.guodong.net.upload.MultipleFileUploader"/>
+    <classEntry path="net.guodong.net.upload.UploadPostHelper"/>
+    <classEntry path="net.guodong.time.TimeManager"/>
+    <classEntry path="net.guodong.time.TimerWatch"/>
+    <classEntry path="net.guodong.ui.PageNav"/>
+    <classEntry path="net.guodong.ui.PreviewPic"/>
+    <classEntry path="net.guodong.ui.RollPage"/>
+    <classEntry path="net.guodong.ui.ScrollBar1"/>
+    <classEntry path="net.guodong.ui.ScrollBar2"/>
+    <classEntry path="net.guodong.ui.SliderUI"/>
+    <classEntry path="net.guodong.ui.scrollbase"/>
+    <classEntry path="net.guodong.utils.ArrayPlus"/>
+    <classEntry path="net.guodong.utils.Base64"/>
+    <classEntry path="net.guodong.utils.CacheBuster"/>
+    <classEntry path="net.guodong.utils.Color"/>
+    <classEntry path="net.guodong.utils.ContextMenuPlus"/>
+    <classEntry path="net.guodong.utils.Cookie"/>
+    <classEntry path="net.guodong.utils.DisplayObjectUtilities"/>
+    <classEntry path="net.guodong.utils.FlashVars"/>
+    <classEntry path="net.guodong.utils.HitTest"/>
+    <classEntry path="net.guodong.utils.Map"/>
+    <classEntry path="net.guodong.utils.NumberUtilities"/>
+    <classEntry path="net.guodong.utils.QueryString"/>
+    <classEntry path="net.guodong.utils.Random"/>
+    <classEntry path="net.guodong.utils.SaveFile"/>
+    <classEntry path="net.guodong.utils.StringTool"/>
+    <classEntry path="net.guodong.utils.StringUtil"/>
+    <classEntry path="net.guodong.utils.WebConfig"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
